@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Timmy Jose
 title: "A simple GCD implementation in gforth"
 date: 2020-02-23
 ---
