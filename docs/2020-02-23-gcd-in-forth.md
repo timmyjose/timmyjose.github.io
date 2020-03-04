@@ -48,4 +48,5 @@ see gcd
   drop ; ok
 ```
 
+[>](2020-03-04-recursive-gcd-in-forth.html)
 [Home](/index.html)
