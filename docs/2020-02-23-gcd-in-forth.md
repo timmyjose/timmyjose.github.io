@@ -12,7 +12,7 @@ modern Forth interpreter. Even so, the gforth manuals have been excellent so far
 
 In any case, one of the exercises in this tutorial series was to write a simple GCD calculator. So here is my solution, and I am rather pleased to be writing actual Forth code at last! Possibly Forth suits some quirk in my brain. Heh.
 
-```
+```forth
   : gcd   ( u1 u2 -- gcd )  
     begin
       dup 0<> while
@@ -36,7 +36,7 @@ Sample run:
 
 Interestingly enough, the Forth compiler seems to convert the inner `if` to a `while`:
 
-```
+```forth
 see gcd
 : gcd
   BEGIN  dup 0<>

@@ -13,7 +13,7 @@ Forth system throws an assertion error.
 
 Here is the program:
 
-```
+```forth
 \ a simple gcd calculator using recursion
 
 : not   ( bool -- bool )
@@ -54,3 +54,4 @@ $10E73A308 (end-assert)
 
 [<](2020-02-23-gcd-in-forth.html)
 [Home](/index.html)
+[>](2020-03-06-conditions-and-restarts-in-common-lisp.html)
