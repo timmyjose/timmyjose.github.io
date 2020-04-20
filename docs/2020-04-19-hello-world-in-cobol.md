@@ -12,7 +12,7 @@ Beyond COBOL, I plan to start learning about mainframes as well. Why? Well, why 
 
 In that vein, here is a simple "Hello, world" program in ANS COBOL (I'm using `gnucobol` on macOS):
 
-  ```
+  ```cobol
       *> Display "Hello, world" on the screen
        IDENTIFICATION DIVISION.
        PROGRAM-ID. HelloWorld.
@@ -30,7 +30,7 @@ In that vein, here is a simple "Hello, world" program in ANS COBOL (I'm using `g
 
 Running it:
 
-```
+```bash
 ~/dev/playground$ cobc -x HelloWorld.cob && ./HelloWorld
 Hello, world
 
@@ -38,3 +38,4 @@ Hello, world
 
 [<](2020-03-06-jlink-image-demo-helloworld.html)
 [Home](/index.html)
+[>](2020-04-20-guessing-game-in-kotlin.html)
