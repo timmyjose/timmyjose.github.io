@@ -168,3 +168,4 @@ For File scratch.lisp
 
 [<](2020-04-20-guessing-game-in-kotlin)
 [Home](/index.html)
+[>](2020-05-20-expr-eval-in-ada)
