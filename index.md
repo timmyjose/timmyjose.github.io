@@ -1,5 +1,6 @@
 ## Welcome
 
+ * [A simple Arithmetic Expression evaluator in Ada](docs/2020-05-20-expr-eval-in-ada)
  * [A basic grep in Ada](docs/2020-05-08-grep-in-ada.md)
  * [Guessing Game in Kotlin](docs/2020-04-20-guessing-game-in-kotlin.md)
  * [Hello, world in ANS COBOL](docs/2020-04-19-hello-world-in-cobol.md)
