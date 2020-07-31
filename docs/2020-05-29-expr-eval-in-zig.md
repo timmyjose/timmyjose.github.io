@@ -127,5 +127,6 @@ Add (Mul (Val 5, Val 4), Sub (Val 100, Div (Val 12, Val 4))) = 117
 Div (Val 100, Val 0) = 100
 ```
 
-[<](2020-05-20-expr-eval-in-ada.md)
+[<](2020-05-20-expr-eval-in-ada)
 [Home](/index.html)
+[>](2020-07-31-coin-change-ats-rust-zig)
