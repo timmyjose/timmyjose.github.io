@@ -1,5 +1,6 @@
 ## Welcome
 
+ * [The Coin Change problem in ATS, Rust, and Zig - a comparison](docs/2020-07-31-coin-change-ats-rust-zig)
  * [A simple Arithmetic Expression evaluator in Zig](docs/2020-05-29-expr-eval-in-zig)
  * [A simple Arithmetic Expression evaluator in Ada](docs/2020-05-20-expr-eval-in-ada)
  * [A basic grep in Ada](docs/2020-05-08-grep-in-ada.md)
