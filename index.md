@@ -1,5 +1,6 @@
 ## Welcome
 
+ * [A generic Binary Search Tree implementation in ATS](docs/2020-08-04-generic-bst-in-ats)
  * [The Coin Change problem in ATS, Rust, and Zig - a comparison](docs/2020-07-31-coin-change-ats-rust-zig)
  * [A simple Arithmetic Expression evaluator in Zig](docs/2020-05-29-expr-eval-in-zig)
  * [A simple Arithmetic Expression evaluator in Ada](docs/2020-05-20-expr-eval-in-ada)

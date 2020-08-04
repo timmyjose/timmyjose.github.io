@@ -2,7 +2,7 @@
 layout: post
 author: Timmy Jose
 title: "The Coin Change problem in ATS, Rust, and Zig - a comparison"
-date: 2020-05-29
+date: 2020-07-31
 ---
 
 I have decided to jump straight into the murky depths of [ATS](http://www.ats-lang.org/), and finally master it. It is a rather strange but powerful language, and despite its
@@ -252,3 +252,5 @@ sys     0m0.001s
 
 [<](2020-05-29-expr-eval-in-zig)
 [Home](/index.html)
+[>](2020-08-04-generic-bst-in-ats)
+
