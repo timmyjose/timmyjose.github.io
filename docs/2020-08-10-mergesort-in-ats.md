@@ -153,3 +153,4 @@ Note: The blank line in the output above is for the empty list case.
 
 [<](2020-08-04-generic-bst-in-ats)
 [Home](/index.html)
+[>](2020-08-11-line-number-closure-in-ats)
