@@ -1,5 +1,6 @@
 ## Welcome
 
+ * [A line number closure in ATS](docs/2020-08-11-line-number-closure-in-ats)
  * [Functional Merge Sort in ATS](docs/2020-08-10-mergesort-in-ats)
  * [A generic Binary Search Tree implementation in ATS](docs/2020-08-04-generic-bst-in-ats)
  * [The Coin Change problem in ATS, Rust, and Zig - a comparison](docs/2020-07-31-coin-change-ats-rust-zig)
