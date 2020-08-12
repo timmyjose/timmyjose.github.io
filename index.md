@@ -1,5 +1,6 @@
 ## Welcome
 
+ * [A simple file copy program in ATS](docs/2020-08-12-file-copy-in-ats)
  * [A line number closure in ATS](docs/2020-08-11-line-number-closure-in-ats)
  * [Functional Merge Sort in ATS](docs/2020-08-10-mergesort-in-ats)
  * [A generic Binary Search Tree implementation in ATS](docs/2020-08-04-generic-bst-in-ats)
