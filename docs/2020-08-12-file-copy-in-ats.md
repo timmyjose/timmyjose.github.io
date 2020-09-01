@@ -63,3 +63,4 @@ Exeunt.
 
 [<](2020-08-11-line-number-closure-in-ats)
 [Home](/index.html)
+[>](2020-09-01-matrix-operations-in-idris)
