@@ -1,5 +1,6 @@
 ## Welcome
 
+ * [Basic matrix operations in Idris](docs/2020-09-01-matrix-operations-in-idris)
  * [A simple file copy program in ATS](docs/2020-08-12-file-copy-in-ats)
  * [A line number closure in ATS](docs/2020-08-11-line-number-closure-in-ats)
  * [Functional Merge Sort in ATS](docs/2020-08-10-mergesort-in-ats)
