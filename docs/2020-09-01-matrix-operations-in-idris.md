@@ -82,3 +82,4 @@ Note, however, also the extra verbosity in the type signatures due to the inclus
 
 [<](2020-08-12-file-copy-in-ats)
 [Home](/index.html)
+[>](2020-09-16-lazy-primes-in-idris)
