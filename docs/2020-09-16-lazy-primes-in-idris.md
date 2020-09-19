@@ -101,4 +101,5 @@ seen in the updated figures.
 
 [<](2020-09-01-matrix-operations-in-idris)
 [Home](/index.html)
+[>](2020-09-19-parser-combinator-library-idris)
 
