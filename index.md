@@ -1,5 +1,6 @@
 ## Welcome
 
+ * [Guessing Game in LOGO](docs/2021-01-31-guessing-game-in-logo.md)
  * [A simple Parser Combinator library in Idris](docs/2020-09-19-parser-combinator-library-idris)
  * [Lazy Primes in Idris](docs/2020-09-16-lazy-primes-in-idris)
  * [Basic matrix operations in Idris](docs/2020-09-01-matrix-operations-in-idris)

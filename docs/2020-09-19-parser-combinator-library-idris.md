@@ -338,4 +338,5 @@ Compared to the Haskell version, there were a couple of minor adjustments I had 
 Overall, I quite enjoyed writing it, perhaps even more so than the Haskell version! :-)
 
 [<](2020-09-16-lazy-primes-in-idris)
+[>](2021-01-31-guessing-game-in-logo)
 [Home](/index.html)
