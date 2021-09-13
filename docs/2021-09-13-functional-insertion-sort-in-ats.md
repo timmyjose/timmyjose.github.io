@@ -5,7 +5,7 @@ title: "Functional Insertion Sort in ATS"
 date: 2021-09-13
 ---
 
-I had presented a functional merge sort implementation in a previous [blog](docs/2020-08-10-mergesort-in-ats). Here is an example of a functional implemeentation
+I had presented a functional merge sort implementation in a previous [blog](2020-08-10-mergesort-in-ats). Here is an example of a functional implemeentation
 of insertion sort in ATS:
 
 ```
