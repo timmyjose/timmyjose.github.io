@@ -1,5 +1,6 @@
 ## Welcome
 
+ * [Functional Insertion Sort in ATS](docs/2021-09-13-functional-insertion-sort-in-ats)
  * [Guessing Game in LOGO](docs/2021-01-31-guessing-game-in-logo.md)
  * [A simple Parser Combinator library in Idris](docs/2020-09-19-parser-combinator-library-idris)
  * [Lazy Primes in Idris](docs/2020-09-16-lazy-primes-in-idris)

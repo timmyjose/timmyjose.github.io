@@ -47,4 +47,5 @@ and a small session showing it in action:
 Happy Days!
 
 [<](2020-09-19-parser-combinator-library-idris)
+[>](2021-09-13-functional-insertion-sort-in-ats)
 [Home](/index.html)
