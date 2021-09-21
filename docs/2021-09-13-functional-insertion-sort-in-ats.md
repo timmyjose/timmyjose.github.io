@@ -87,3 +87,5 @@ after sorting (descending):  0.899854, 0.691004, 0.604144, 0.582699, 0.533065, 0
 
 [<](2021-01-31-guessing-game-in-logo)
 [Home](/index.html)
+[>](2021-09-21-guessing-game-in-ats)
+
